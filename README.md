@@ -12,10 +12,9 @@ Full-stack dev. I ship products, not just code.
 
 ### Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=lexmanthefirst&theme=dark"></td><td width="50%" align="center">
-</td></tr></tbody></table>
+<p align="center">
+  <img alt="Streak stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=lexmanthefirst&theme=dark" />
+</p>
 
 ---
 
